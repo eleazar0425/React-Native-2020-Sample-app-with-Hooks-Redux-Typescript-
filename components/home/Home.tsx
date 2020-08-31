@@ -1,6 +1,6 @@
 import React from "react";
 import {FlatList, ListRenderItem, View, Text} from "react-native";
-import Movie from "../../model/Movie";
+import Movie from "../../types/Movie";
 import styles from "../../styles/Styles"
 import HomeCell from "./HomeCell";
 import { StackNavigationProp } from '@react-navigation/stack'

@@ -1,6 +1,6 @@
 import * as React from "react"
 import {View, Image, Text, TouchableOpacity} from "react-native"
-import Movie from "../../model/Movie";
+import Movie from "../../types/Movie";
 import styles from "../../styles/Styles";
 
 export interface Props {

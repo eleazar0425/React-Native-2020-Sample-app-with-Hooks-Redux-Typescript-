@@ -3,7 +3,7 @@ import { View, Text, Image } from 'react-native'
 import StackParamList from "../../types/StackParamList";
 import styles from '../../styles/Styles'
 import { RouteProp } from '@react-navigation/native'
-import Movie from "../../model/Movie";
+import Movie from "../../types/Movie";
 
 interface Props {
     route: RouteProp<StackParamList, 'Detail'>

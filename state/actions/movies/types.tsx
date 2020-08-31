@@ -1,4 +1,4 @@
-import Movie from '../../../model/Movie'
+import Movie from '../../../types/Movie'
 
 export const MOVIES_REQUEST = 'MOVIES_REQUEST'
 export const MOVIES_SUCESS  = 'MOVIES_SUCESS'

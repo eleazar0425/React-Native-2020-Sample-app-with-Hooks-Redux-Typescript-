@@ -1,5 +1,5 @@
 import {MOVIES_SUCESS, MOVIES_FAILED, MOVIES_REQUEST, ADD_TO_FAVORITES, DELETE_FROM_FAVORITES, MoviesActionTypes} from './types'
-import Movie from '../../../model/Movie';
+import Movie from '../../../types/Movie';
 import MoviesDataSource from '../../../data/remote/MoviesRemoteDataSource'
 import {Dispatch} from 'redux'
 

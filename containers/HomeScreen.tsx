@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import HomeList from '../components/home/Home';
-import Movie from '../model/Movie'
+import Movie from '../types/Movie'
 import { StackNavigationProp } from '@react-navigation/stack'
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import StackParamList from "../types/StackParamList";

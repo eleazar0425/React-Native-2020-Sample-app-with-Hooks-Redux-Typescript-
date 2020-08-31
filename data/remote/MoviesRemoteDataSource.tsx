@@ -1,4 +1,4 @@
-import Movie from "../../model/Movie";
+import Movie from "../../types/Movie";
 import client from './AxiosClient'
 import { ServerResponse } from './types'
 

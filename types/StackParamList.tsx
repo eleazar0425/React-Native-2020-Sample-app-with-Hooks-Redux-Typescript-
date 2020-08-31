@@ -1,4 +1,4 @@
-import Movie from '../model/Movie'
+import Movie from './Movie'
 
 type StackParamList = {
   Home: undefined,

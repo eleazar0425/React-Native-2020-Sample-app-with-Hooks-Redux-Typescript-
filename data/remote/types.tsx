@@ -1,4 +1,4 @@
-import Movie from "../../model/Movie";
+import Movie from "../../types/Movie";
 
 type MoviesResponse = {
     page: number,
