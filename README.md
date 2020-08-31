@@ -7,4 +7,5 @@ The state is shared across the multiple tabs, using the advatanges of redux.()
 
 Enjoy!
 
-![](https://media.giphy.com/media/gJuCZdUkp0YgWVbo3Z/giphy.gif)
+![alt text](https://media.giphy.com/media/gJuCZdUkp0YgWVbo3Z/giphy.gif)
+
