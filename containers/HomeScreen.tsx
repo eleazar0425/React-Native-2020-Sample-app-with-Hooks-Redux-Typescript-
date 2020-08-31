@@ -43,7 +43,6 @@ export default function HomeScreen(props: Props) {
     }
 
     useEffect(() => {
-        console.log('Dispatching action')
         movieActions
         dispatch(movieActions.getMovies(page))
     }, [])

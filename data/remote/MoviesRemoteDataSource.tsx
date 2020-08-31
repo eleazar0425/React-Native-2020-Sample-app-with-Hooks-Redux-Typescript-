@@ -11,7 +11,6 @@ function fetchMovies(page: Number) {
                 page: page
             }
         }).then(async res => {
-            console.log('RESPONSE:' + JSON.stringify(res.data.results.length))
             resolve(res.data.results)
         }).catch( error => {
             console.log('ERROR:' + error)
